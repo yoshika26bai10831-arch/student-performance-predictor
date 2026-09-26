@@ -8,7 +8,7 @@ Student Performance Predictor is a Python-based project that analyzes student in
 
 -Takes student name as input
 -Takes study hours
--Takes attendence percentage
+-Takes attendance percentage
 -Takes previous marks
 -Takes assignment marks
 -Takes internal marks
